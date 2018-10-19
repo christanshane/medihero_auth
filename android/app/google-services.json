@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "603689457851",
+    "firebase_url": "https://mediherotrial.firebaseio.com",
+    "project_id": "mediherotrial",
+    "storage_bucket": "mediherotrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603689457851:android:56b4fe06dc0ebda2",
+        "android_client_info": {
+          "package_name": "com.example.mediheroauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603689457851-7s9ie278m96sfnvpcl5tk8g4jci27ksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyvSaP3BX-bTTCYfi0ZOmsZHDg5cNDos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
